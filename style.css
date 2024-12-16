@@ -1,0 +1,17 @@
+body{
+    background-color: black; 
+     color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ .container{
+    text-align: center;
+   
+}
+#toggle{
+color:black;
+padding: 30px;
+border-radius: 10px;
+}
+#toggle:hover{
+   background-color: rgb(220, 222, 227);
+}  
